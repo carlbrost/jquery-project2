@@ -59,36 +59,7 @@
                     "avoid" : "Getting Close. To anything. Seriously, you aint a melee guy~! Also standing in your own blast radius"
                 }
             ]
-        },
-        
-        {
-            "name" : "Casa Noble Reposado",
-            "image" : "casaNobleR.png",
-            "description" : "A smooth and full bodied tequila, Casa Noble Reposado is aged for 364 days in French white oak barrels. It has a moderate level of sweetness and a hot finish.",
-            "info" : [
-                {
-                    "distiller" : "La Cofradia, S.A. de C.V.",
-                    "location" : "Tequila, Jalisco, MX",
-                    "type" : "Reposado",
-                    "priceSource" : "Ace Spirits",
-                    "price" : 59.99
-                }
-            ]
-        },
-        
-        {
-            "name" : "Don Julio Blanco",
-            "image" : "djulioB.png",
-            "description" : "A thick, lightly sweet blanco from the Don Julio line, established in 1942 by Don Julio  Gonzalez at the ripe old age of 17.",
-            "info" : [
-                {
-                    "distiller" : "Tequila Don Julio, S.A. de C.V.",
-                    "location" : "Atotonilco, Jalisco, MX",
-                    "type" : "Blanco",
-                    "priceSource" : "Ace Spirits",
-                    "price" : 49.99
-                }
-            ]
-        }
+        },        
+
     ]
 }
