@@ -1,0 +1,94 @@
+{    
+    "classes" : [
+        
+        {
+            "name" : "SPIRITUALIST: SPOOKY SCARY PHANTOM FRIENDS",
+            "image" : "imgghost.jpg",
+            "description" : "Spiritualist has to be my favorite new pathfinder class. It's like a summoning class, only lots spookier, as you become a caster capable of summoning your very own superb ghostly buddy~! With a variety of different manifestations, and possibilities for stories. Plus, the sucker's intangible. Nothing messes with your GM by having a ghost to scout out whatever carefully laid trap he set up for you",
+            "info" : [
+                {
+                    "role" : "Buffer/Scout/Assault",
+                    "mmoa" : "Spells/GhostyFriend/FearTactics",
+                    "s&a" : "Spooky buffs and Debuffs, plus your Phantom's abillities",
+                    "perks" : "Ramirez Liquor",
+                    "avoid" : "Really powerful spirits, enemy clerics, and anyone in a jumpsuit with a proton pack."
+                }
+            ]
+        },
+        
+        {
+            "name" : "Bloodrager",
+            "image" : "imgfist.png",
+            "description" : "The first rule about arcane fight club, you always talk about arcane fight club. Seriously, this is like, all the fun parts about being a sorceror, only all up close and personal, able to be delivered via fists, weapon, and various other physical implements.",
+            "info" : [
+                {
+                    "role" : "BURST/TANNK/SMASHER",
+                    "mmoa" : "MAGICAL RAGE SMASHING",
+                    "s&a" : "Like Magic~! With your FISTS.",
+                    "perks" : "Not quite as powerful a spell caster as sorceror, but you're badass while you're raging, and you get all the wapons you wouldn't otherwise",
+                    "avoid" : "Getting stuck, or disabled. You am Hulk. You need smash, no get stuck"
+                }
+            ]
+        },
+        
+        {
+            "name" : "SHAMAN: IT's LIKE, COMMUNING WITH THE SPIRITS, MAN.",
+            "image" : "imgshaman.jpg",
+            "description" : "Yeah, the Shaman's pretty groovy. You're whole deal man, is, like, talking to the spirits of nature, and gaining their powers. You get like, a little spirit animal dude to go around with you, some pretty neat powers, depending on what spirit your little nature bro embodies. Plus, you can like hex dudes who are being uncool to your party. You're toooootaly copasetic. ",
+            "info" : [
+                {
+                    "role" : "Blaster/Debuffer/Debuffer",
+                    "mmoa" : "Magic, Hexes, many of which are  deliverable via animal friend.",
+                    "s&a" : "Spirit based magic, prepared at the start of the day, plus spiritual assistance and hexes.",
+                    "perks" : "Solid all around spell caster, and you've got lots of spirit shennagans you can inflict on people",
+                    "avoid" : "Bad Trips, Bad Mojo, Running Out Of Spells"
+                }
+            ]
+        },
+        
+        {
+            "name" : "ALCHEMIST: BOMBS, BREWS, AND BEYOND",
+            "image" : "imgalchemy.jpg",
+            "description" : "Alchemists. I really love the alchemist. You don't have a huge amount of magical power, but what you've got, you make it work for you, in the very best ways. With this class you can explode things, you can mutate things, you can create all manner of things, only quite limited by imagination.",
+            "info" : [
+                {
+                    "role" : "Blaster/Debuffer/Debuffer",
+                    "mmoa" : "BOMBS. SO MANY BOMBS, ",
+                    "s&a" : "Little Potions You make at the beginning of the day.",
+                    "perks" : "Lots of Varieties of alchemists, and you can play them almost any way you want. ",
+                    "avoid" : "Getting Close. To anything. Seriously, you aint a melee guy~! Also standing in your own blast radius"
+                }
+            ]
+        },
+        
+        {
+            "name" : "Casa Noble Reposado",
+            "image" : "casaNobleR.png",
+            "description" : "A smooth and full bodied tequila, Casa Noble Reposado is aged for 364 days in French white oak barrels. It has a moderate level of sweetness and a hot finish.",
+            "info" : [
+                {
+                    "distiller" : "La Cofradia, S.A. de C.V.",
+                    "location" : "Tequila, Jalisco, MX",
+                    "type" : "Reposado",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 59.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "Don Julio Blanco",
+            "image" : "djulioB.png",
+            "description" : "A thick, lightly sweet blanco from the Don Julio line, established in 1942 by Don Julio  Gonzalez at the ripe old age of 17.",
+            "info" : [
+                {
+                    "distiller" : "Tequila Don Julio, S.A. de C.V.",
+                    "location" : "Atotonilco, Jalisco, MX",
+                    "type" : "Blanco",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 49.99
+                }
+            ]
+        }
+    ]
+}
