@@ -1,58 +1,40 @@
-body{
-
-
-
-background-color: bisque;
+    body {
+    background-color: bisque;
     font-family: fantasy, sans-serif;
     color: darkmagenta;
 }
 
-#thinglist{
+#thinglist {
     border-radius: 70px 70px 70px 70 px;
     background-image: url("cubes.png");
     background-color: burlywood;
 }
-h1{
-    
-    
-    
-    
-}
-.sumbtn{
-    
-    
-}
-.deetbtn{
 
-    
-}
-#Main{
-border-radius: 70px 70px 70px 70 px;
-background-image: url("cubes.png");
-background-color: burlywood;
-background-color: darksalmon    
-    
+h1 {}
 
-}
-h2{
-    
-    
-    
-    
+.sumbtn {}
+
+.deetbtn {}
+
+.deets {}
+
+.summ {}
+
+#Main {
+    border-radius: 70px 70px 70px 70 px;
+    background-image: url("cubes.png");
+    background-color: burlywood;
+    background-color: darksalmon
 }
 
-h3{
-    
-    
-    
-    
-}
+h2 {}
 
+h3 {}
 
 #wrapper {
-margin: auto;
-width: 80%;
-box-shadow: 5px 5px 5px #000033;
-background-color: #F18F8F;
-background-image: url(cubes.png);
-min-width: 960px;
+    margin: auto;
+    width: 80%;
+    box-shadow: 5px 5px 5px #000033;
+    background-color: #F18F8F;
+    background-image: url(cubes.png);
+    min-width: 960px;
